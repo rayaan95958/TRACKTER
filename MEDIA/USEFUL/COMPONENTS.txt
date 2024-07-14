@@ -18,10 +18,8 @@ COMPONENTS:
 
 9.3D printed parts     :~700
 
-10.Banner(5ft X 7ft)   : 1080
+10.Banner(5ft X 7ft)   : 1445
 
-11.Rods                : 750
+11.Foam tape           : 185
 
-12.Foam tape           : 185
-
-TOTAL: ₹10,750
+12.Logo dome stickers  : 844
