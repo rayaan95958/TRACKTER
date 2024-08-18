@@ -1,0 +1,5 @@
+classes = 1
+train = /mnt/c/Users/satar/OneDrive/Desktop/KEY_FRAME_SELECTION/RUNNING/darknet/darknet/data/train.txt
+valid = /mnt/c/Users/satar/OneDrive/Desktop/KEY_FRAME_SELECTION/RUNNING/darknet/darknet/data/test.txt
+names = /mnt/c/Users/satar/OneDrive/Desktop/KEY_FRAME_SELECTION/RUNNING/darknet/darknet/data/obj.names
+backup = /mnt/c/Users/satar/OneDrive/Desktop/KEY_FRAME_SELECTION/TRAINING/yolov4-tiny/training
