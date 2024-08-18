@@ -1,0 +1,25 @@
+COMPONENTS:
+
+1.Raspberry pi 4 2GB   : 2500
+
+2.Single fan           : 130
+
+3.Raspberry pi fan     : 470
+
+4.128GB micro-SD card  : 1049
+
+5.Raspberry pi camera  : 1,800 
+
+6.LED light            : 375
+
+7.Extension box        : 525
+
+8.Black paint          : 200
+
+9.3D printed parts     :~700
+
+10.Banner(5ft X 7ft)   : 1445
+
+11.Foam tape           : 185
+
+12.Logo dome stickers  : 844
