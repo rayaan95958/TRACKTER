@@ -31,7 +31,7 @@ def main(video_path, crop_coords, speed_up_factor=1.5, rewind_seconds=5, fast_fo
     fast_forward_frames = int(fps * fast_forward_seconds)
 
     screenshot_count = 1
-    paused = False
+    paused = False 
 
     while True:
         if not paused:
@@ -60,7 +60,7 @@ def main(video_path, crop_coords, speed_up_factor=1.5, rewind_seconds=5, fast_fo
             # Pause/resume the video
             paused = not paused
             if paused:
-                print("Video paused. Press 'p' again to resume.")
+                print("Video paused. Press 'p' again to resume the learning process.")
             else:
                 print("Video resumed.")
         elif key == ord('r'):
