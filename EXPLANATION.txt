@@ -1,0 +1,9 @@
+1.INSIDE CODE->COMPUTER VISION-> (i)DATASET CREATION- Codes for selection frames from recorded video, cleaning and annotation.
+                                  (ii)KEY FRAME SELECTION- A single frame is selected per part that is passed onto product identification
+                                  (iii)PRODUCT IDENTIFICATION- Takes the key frame and identifies what part it is.
+
+2.PRODUCT IDENTIFICATION- ResNet-18 trained model for identification of the part from the passed key frame.
+
+3.KEY FRAME SELECTION- (i) The base model for object detection from real-time video is YoloV4-tiny.
+                       (ii)Then we use "Lucas-Kaneda tracking algorithm" for tracking.
+                       (iii)Once we nail tracking we choose one frame per part as key frame then pass it to PRODUCT IDENTIFICATION.
