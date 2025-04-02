@@ -7,7 +7,7 @@ from pathlib import Path
 
 # Configuration
 SCRIPTS = {
-    "detection_tracking": Path("/mnt/c/Users/satar/OneDrive/Desktop/TRACKTER/CODE/COMPUTER_VISION/KEY_FRAME_SELECTION/RUNNING/DETECTION_TRACKING_KFS.py"),
+    "detection_tracking": Path("/mnt/c/Users/satar/OneDrive/Desktop/TRACKTER/CODE/COMPUTER_VISION/KEY_FRAME_SELECTION/RUNNING/DETECTION_TRACKING_KFS_VIDEO.py"),
     "identification": Path("/mnt/c/Users/satar/OneDrive/Desktop/TRACKTER/CODE/COMPUTER_VISION/PRODUCT_IDENTIFICATION/IDENTIFICTION_RUNNING.py")
 }
 

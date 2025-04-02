@@ -40,7 +40,7 @@ def startup():
     time.sleep(1)
     turn_buzzer_off()
     time.sleep(1)
-    turn_led_off
+    turn_led_off()
 
 try:
     startup()

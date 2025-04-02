@@ -65,9 +65,9 @@ if not cap.isOpened():
 fps = int(cap.get(cv2.CAP_PROP_FPS))
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-frame_interval = 3*fps  # Processing rate 
+frame_interval = 4*fps  # Processing rate 
 print(f"Video: {width}x{height} @ {fps}fps")
-print(f"Processing at 1 frame every 3s (processing every {frame_interval} frames)")
+print(f"Processing at 1 frame every 4s (processing every {frame_interval} frames)")
 
 tracked_objects = {}
 next_id = 1
